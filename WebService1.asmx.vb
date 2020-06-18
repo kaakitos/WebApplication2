@@ -69,6 +69,7 @@ Public Class WebService1
         Catch exc As Exception
             logger.Error(exc.Message)
             Exit Function
+
         End Try
 
 
