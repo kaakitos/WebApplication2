@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<appSettings>
+  <add key="myConnString" value="DataSource=10.64.20.29;UserID=BJBON;Password=Cambo64250;LibraryList=XDUXG,XDUXFICWEB,Y2SYEXEC;" />
+  <add key="url" value="https://belharra.docuware.cloud/docuware/platform" />
+  <add key="Login" value="modi" />
+  <add key="Password" value="mordioP2019" />
+  <add key="Organisation" value="BELHARRA SAS" />
+  <add key="idFileCabinet" value="7d95700f-9bc8-408a-9507-5d05e76033d9" />
+</appSettings>
+
